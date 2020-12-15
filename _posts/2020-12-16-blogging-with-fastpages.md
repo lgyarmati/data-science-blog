@@ -1,7 +1,8 @@
 ---
 toc: true
 layout: post
-description: How to Start Blogging: Use fastpages.
+description: "How to Start Blogging: Use fastpages"
+author: Laszlo Gyarmati
 categories: [blog]
 title: An Easy Way to Start Blogging
 ---
@@ -26,4 +27,5 @@ Figure out the topic, write the post, and commit to the Github repository of you
 
 - If you search for blogging and fast.ai you may end up reading about fast_template. Read for about it for motivation and then use fastpages. More flexibility and ease of use.
 - The repository containing the blog should be public, unless you have a Pro subscription (to have Pages functionality on Github).
+- Use quotation marks in the description to avoid Jekyll build failure.
 
